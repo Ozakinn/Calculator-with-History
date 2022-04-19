@@ -15,6 +15,17 @@ A Java calculator with a history of previous calculations. The history is record
 
 •	Suitable to run on windows 10 or windows 11.
 
+## Community
+**This application will no longer update for new feature and some bugs. But it will be maintained.** 
+
+Please start a GitHub Issue if you have a problem.
+
+If you'd want to contribute to this project, please leave a star 🌟 and share it with your friends! 😎
+
+I would appreciate it if you could offer me a cup of coffee. ☕💖
+
+<a href="https://www.buymeacoffee.com/Ozaki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## UI
 
 •	Calculator (Hidden History Panel)
