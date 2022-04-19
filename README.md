@@ -13,7 +13,7 @@ A Java calculator with a history of previous calculations. The history is record
 
 •	Java 1.8
 
-•	Suitable to run the .Jar file on windows 10 or windows 11.
+•	Suitable to run on windows 10 or windows 11.
 
 ## UI
 
