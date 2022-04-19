@@ -30,3 +30,11 @@ A Java calculator with a history of previous calculations. The history is record
 ## Download Link
 Looking for java class to run?
 Check the release.
+
+## License
+
+Copyright (c) 2022 Krystler/Ozakinn. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](/LICENSE) file.
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](/LICENSE)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
