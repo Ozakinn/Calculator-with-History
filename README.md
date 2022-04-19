@@ -16,7 +16,7 @@ A Java calculator with a history of previous calculations. The history is record
 •	Suitable to run on windows 10 or windows 11.
 
 ## Community
-**This application will no longer update for new feature. But it will be maintained.** 
+**This app will no longer receive updates for new features (unless I have time). However, it will be maintained.** 
 
 Please start a GitHub Issue if you have a problem.
 
